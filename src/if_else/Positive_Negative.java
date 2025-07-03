@@ -21,5 +21,6 @@ public class Positive_Negative {
 	}catch(Exception e) {
 		System.out.println("Please enter int value. Thanks");
 	}
+		sc.close();
 	}
 }
